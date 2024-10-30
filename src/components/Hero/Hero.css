@@ -1,0 +1,30 @@
+.hero{
+    background: linear-gradient(rgba(63, 208, 212, 0.7), rgba(0, 0, 0, 0.7));
+    height: 593.23px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+        color: white;
+    
+}
+.hero h1{
+    font-size: 70px;
+
+}
+.hero p{
+    width: 800px;
+    font-size: 20px;
+    margin-top: 20px;   
+    
+}
+.hero button{
+    background: none;
+    color: white;
+    border: none;
+    border:solid 2px white;
+    width: 250px;
+    height: 50px;
+    margin-top: 20px;
+    font-size: 20px;
+}

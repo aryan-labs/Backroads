@@ -1,0 +1,28 @@
+.nav-comp1{
+    text-decoration: none;
+    display: flex;
+    gap: 20px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.nav-comp {
+    text-decoration: none;
+    display: flex;
+    gap: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    transition: all 0.4s linear;
+    cursor: pointer;
+}
+.Navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 30px;
+    height: 60px;
+}
+
+.nav-comp:hover{
+    color:aqua;
+    
+}
